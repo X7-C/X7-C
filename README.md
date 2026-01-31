@@ -44,5 +44,5 @@ I enjoy solving real-world problems with code and learning new tools to level up
 ### 🎥 Latest Videos
 (Coming soon)
 
-"Code is like an old Ikea shelf — don't move it, don't question it, just enjoy that it's still standing."
+"Code is like an old Ikea shelf don't move it, don't question it, just enjoy that it's still standing."
 
